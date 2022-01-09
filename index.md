@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chimeraland - RU (WIKI)
 
 You can use the [editor on GitHub](https://github.com/chimeralandru/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
